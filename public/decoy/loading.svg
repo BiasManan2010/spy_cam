@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" fill="none">
+  <rect width="390" height="844" fill="#1a1a2e"/>
+  <circle cx="195" cy="380" r="40" stroke="#4a4a6a" stroke-width="4" fill="none" stroke-dasharray="60 200">
+    <animateTransform attributeName="transform" type="rotate" from="0 195 380" to="360 195 380" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="195" y="460" text-anchor="middle" fill="#8a8aaa" font-family="system-ui" font-size="16">Loading&</text>
+  <text x="195" y="490" text-anchor="middle" fill="#5a5a7a" font-family="system-ui" font-size="12">Please wait</text>
+</svg>

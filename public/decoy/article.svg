@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" fill="none">
+  <rect width="390" height="844" fill="#fff"/>
+  <rect x="0" y="0" width="390" height="56" fill="#fff" stroke="#e5e5e5"/>
+  <text x="20" y="36" fill="#000" font-family="Georgia, serif" font-size="18" font-weight="bold">The Daily Chronicle</text>
+  <line x1="0" y1="56" x2="390" y2="56" stroke="#e5e5e5"/>
+  <text x="20" y="100" fill="#999" font-family="system-ui" font-size="12">TECHNOLOGY · 5 MIN READ</text>
+  <text x="20" y="140" fill="#111" font-family="Georgia, serif" font-size="26" font-weight="bold">Scientists Discover New</text>
+  <text x="20" y="175" fill="#111" font-family="Georgia, serif" font-size="26" font-weight="bold">Method for Clean Energy</text>
+  <rect x="20" y="200" width="350" height="200" rx="4" fill="#d4d4d4"/>
+  <text x="20" y="430" fill="#333" font-family="Georgia, serif" font-size="16" line-height="1.6">Researchers at a leading university have unveiled a breakthrough in renewable energy storage that could transform how power grids operate worldwide.</text>
+  <text x="20" y="490" fill="#333" font-family="Georgia, serif" font-size="16">The new technique uses advanced materials to store energy more efficiently than current lithium-ion batteries, with significantly lower environmental impact.</text>
+  <text x="20" y="560" fill="#333" font-family="Georgia, serif" font-size="16">Industry experts say commercial applications could arrive within the next decade, pending further testing and regulatory approval.</text>
+  <line x1="20" y1="620" x2="370" y2="620" stroke="#e5e5e5"/>
+  <text x="20" y="650" fill="#666" font-family="system-ui" font-size="13">By Jane Smith · August 14, 2026</text>
+</svg>
