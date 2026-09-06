@@ -8,4 +8,4 @@ Not part of the current featured set.
 
 **Manan Bharti** ([@mananbharti](https://github.com/mananbharti))
 
-<a href="https://buymeachai.in/mananbharti"><img src="https://raw.githubusercontent.com/mananbharti/mananbharti/main/assets/buymeachai.png" alt="buymeachai" height="50" /></a>
+[![buymeachai](https://img.shields.io/badge/buymeachai-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeachai.in/mananbharti)
