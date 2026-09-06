@@ -1,6 +1,6 @@
 # spy_cam
 
-Early experiment / archive repo. The repository currently holds only this README.
+Early experiment / archive repo. Vercel deploys a static placeholder from `index.html`.
 
 Not part of the current featured set.
 
