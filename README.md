@@ -6,4 +6,4 @@ Not part of the current featured set.
 
 ## Author
 
-**Manan Bharti** ([@BiasManan2010](https://github.com/BiasManan2010))
+**Manan Bharti** ([@mananbharti](https://github.com/mananbharti))
